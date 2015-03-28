@@ -1,6 +1,6 @@
 %%This file calculates the global optimum values for transmission parameters using brute force search
 
-%%weight vectors for emergeny mode operation (minimizing BER)
+%%weight vectors for emergency mode operation (minimizing BER)
 w1 = 0.55;
 w2 = 0.15;
 w3 = 0.15;
